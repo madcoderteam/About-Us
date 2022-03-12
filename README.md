@@ -29,4 +29,5 @@
 একজন আর্টিস্ট কোডিং নিয়ে কি বলেছে দেখি। স্টিভ জবসকে আমার সব সময় একজন আর্টিস্টই মনে হতোঃ
 
 
-Everybody in this country [read world] should learn how to program a computer… because it teaches you how to think. – Steve Jobs.
+> Everybody in this country [read world] should learn how to program a computer… because it teaches you how to think.
+  – Steve Jobs.
